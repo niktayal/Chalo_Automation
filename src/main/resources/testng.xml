@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MERLIN360 POC AUTOMATION TEST SUITE, Language: ENGLISH">
+
+    <listeners>
+        <listener class-name="com.org.chalo.extent_report.ExtentReportNG"/>
+        <listener class-name="com.org.chalo.util.retry.Transformer"/>
+    </listeners>
+
+    <test name="sanityTest">
+        <classes>
+            <class name="com.org.chalo.tests.LoginPageTest"/>
+        </classes>
+    </test>
+
+</suite>

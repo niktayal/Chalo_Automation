@@ -1,0 +1,23 @@
+[INFO ] 2025-06-11 18:18:26.474 [main] TestBase - Extent Reports initialized successfully.
+[INFO ] 2025-06-11 18:18:26.496 [main] TestBase - ******************************************************************************************
+[INFO ] 2025-06-11 18:18:26.509 [main] TestBase -                       Executing Test Cases of the Class: LoginPageTest
+[INFO ] 2025-06-11 18:18:26.509 [main] TestBase - ******************************************************************************************
+[INFO ] 2025-06-11 18:18:36.220 [main] LoginPage - -----------------------------------------------------------------------------------------------
+[INFO ] 2025-06-11 18:18:36.222 [main] LoginPage - -->Executing test method: Test Method
+[INFO ] 2025-06-11 18:18:36.223 [main] LoginPage - Entering Username
+[INFO ] 2025-06-11 18:18:36.383 [main] LoginPage - Entered username: afcsdemo@gmail.com
+[ERROR] 2025-06-11 18:19:03.157 [main] LoginPage - -->Timeout Waiting for Element: //input[@class='inputText margin--b10 ng-untouched ng-pristine ng-invalid'] | Message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@class='inputText margin--b10 ng-untouched ng-pristine ng-invalid'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\UNTHIN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56437}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56437/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ea969e7b4a8a6c0b26a7d5f8eebcb8b
+[INFO ] 2025-06-11 18:19:03.334 [main] RetryAnalyzer - --->Inside Extent Report | On Test Failure
+[INFO ] 2025-06-11 18:19:03.334 [main] RetryAnalyzer - -->Failed test method: testMethod | Failure Reason: --->xPath not found
+[INFO ] 2025-06-11 18:19:03.451 [main] RetryAnalyzer - Successfully attached screenshot to the Extent Report with label: Screenshot - testMethod
+[INFO ] 2025-06-11 18:19:03.771 [main] RetryAnalyzer - -----------------------------------------------------------------------------------------------
+[INFO ] 2025-06-11 18:19:03.906 [main] RetryAnalyzer - ******************************************************************************************
+[INFO ] 2025-06-11 18:19:03.907 [main] RetryAnalyzer -                       Finished with Test Cases of the Class LoginPageTest
+[INFO ] 2025-06-11 18:19:03.907 [main] RetryAnalyzer - ******************************************************************************************
+[INFO ] 2025-06-11 18:19:03.907 [main] RetryAnalyzer - 
+
