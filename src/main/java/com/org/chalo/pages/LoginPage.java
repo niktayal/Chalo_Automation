@@ -17,8 +17,9 @@ public class LoginPage extends TestBase {
     public void enterUserName(String userName) {
 
         log.info("Entering Username");
-        getElement(LoginPageOR.INP_USER_NAME_XP.getLocator())
-                .sendKeys(userName);
+        //getElement(LoginPageOR.INP_USER_NAME_XP.getLocator())
+                //.sendKeys(userName);
+        getElement(properties.getProperty("inputUserName")).sendKeys(userName);
         log.info("Entered username: {}", userName);
     }
 

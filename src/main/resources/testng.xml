@@ -9,7 +9,8 @@
 
     <test name="sanityTest">
         <classes>
-            <class name="com.org.chalo.tests.LoginPageTest"/>
+            <!--<class name="com.org.chalo.tests.LoginPageTest"/>-->
+            <class name="com.org.chalo.tests.HomePageElementsTest"/>
         </classes>
     </test>
 

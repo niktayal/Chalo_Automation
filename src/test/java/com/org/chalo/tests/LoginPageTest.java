@@ -12,12 +12,12 @@ import java.awt.*;
 import java.lang.reflect.Method;
 
 public class LoginPageTest extends TestBase {
-    private LoginPage loginPage;
-
+    private LoginPage loginPage = new LoginPage();
+    //loginPage = new LoginPage();
     @BeforeMethod
     public void setUp(Method method) {
         initialization();
-        loginPage = new LoginPage();
+        //loginPage = new LoginPage();
         log.info(Constants.LINE);
     }
 
