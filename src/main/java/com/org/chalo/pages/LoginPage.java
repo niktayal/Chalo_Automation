@@ -3,6 +3,7 @@ package com.org.chalo.pages;
 import com.org.chalo.base.TestBase;
 import object_repository.LoginPageOR;
 import org.apache.logging.log4j.LogManager;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.support.ui.Select;
 
 import java.awt.*;
@@ -38,13 +39,11 @@ public class LoginPage extends TestBase {
 
     public void enterCity(String city) throws AWTException {
         getElement(properties.getProperty("btnSelectCity")).clear();
-        getElement(properties.getProperty("btnSelectCity")).sendKeys(city);
-        TestBase.robotClass(KeyEvent.VK_ENTER);
+        getElement(properties.getProperty("btnSelectCity")).sendKeys(city + Keys.ENTER);
     }
 
     public void enterDepot(String depot) throws AWTException {
         getElement(properties.getProperty("btnSelectDepo")).clear();
-        getElement(properties.getProperty("btnSelectDepo")).sendKeys(depot);
-        TestBase.robotClass(KeyEvent.VK_ENTER);
+        getElement(properties.getProperty("btnSelectDepo")).sendKeys(depot+ Keys.ENTER);
     }
 }

@@ -1,17 +1,17 @@
-[INFO ] 2025-06-12 18:19:01.148 [main] RegisterEtimPage - Extent Reports initialized successfully.
-[INFO ] 2025-06-12 18:19:01.180 [main] RegisterEtimPage - ******************************************************************************************
-[INFO ] 2025-06-12 18:19:01.196 [main] RegisterEtimPage -                       Executing Test Cases of the Class: HomePageElementsTest
-[INFO ] 2025-06-12 18:19:01.196 [main] RegisterEtimPage - ******************************************************************************************
-[INFO ] 2025-06-12 18:19:11.905 [main] HomePage - -----------------------------------------------------------------------------------------------
-[INFO ] 2025-06-12 18:19:11.914 [main] HomePage - The user is not logged in into the website
-[INFO ] 2025-06-12 18:19:11.914 [main] HomePage - Entering Username
-[INFO ] 2025-06-12 18:19:12.073 [main] HomePage - Entered username: afcsdemo@gmail.com
-[INFO ] 2025-06-12 18:19:18.841 [main] HomePage - The menu options redirection check is been started
-[INFO ] 2025-06-12 18:19:18.841 [main] HomePage - The user is on Hom Page and clicking on ETIM option
-[INFO ] 2025-06-12 18:19:21.856 [main] HomePage - The menu options redirection check is been stopped
-[INFO ] 2025-06-12 18:19:21.856 [main] HomePage - -----------------------------------------------------------------------------------------------
-[INFO ] 2025-06-12 18:19:21.984 [main] HomePage - ******************************************************************************************
-[INFO ] 2025-06-12 18:19:21.986 [main] HomePage -                       Finished with Test Cases of the Class HomePageElementsTest
-[INFO ] 2025-06-12 18:19:21.986 [main] HomePage - ******************************************************************************************
-[INFO ] 2025-06-12 18:19:21.986 [main] HomePage - 
+[INFO ] 2025-06-13 07:12:54.450 [main] RegisterEtimPage - Extent Reports initialized successfully.
+[INFO ] 2025-06-13 07:12:54.473 [main] RegisterEtimPage - ******************************************************************************************
+[INFO ] 2025-06-13 07:12:54.484 [main] RegisterEtimPage -                       Executing Test Cases of the Class: HomePageElementsTest
+[INFO ] 2025-06-13 07:12:54.485 [main] RegisterEtimPage - ******************************************************************************************
+[INFO ] 2025-06-13 07:13:04.418 [main] HomePage - -----------------------------------------------------------------------------------------------
+[INFO ] 2025-06-13 07:13:04.427 [main] HomePage - The user is not logged in into the website
+[INFO ] 2025-06-13 07:13:04.427 [main] HomePage - Entering Username
+[INFO ] 2025-06-13 07:13:04.584 [main] HomePage - Entered username: afcsdemo@gmail.com
+[INFO ] 2025-06-13 07:13:11.259 [main] HomePage - The menu options redirection check is been started
+[INFO ] 2025-06-13 07:13:11.259 [main] HomePage - The user is on Hom Page and clicking on ETIM option
+[INFO ] 2025-06-13 07:13:14.317 [main] HomePage - The menu options redirection check is been stopped
+[INFO ] 2025-06-13 07:13:14.321 [main] HomePage - -----------------------------------------------------------------------------------------------
+[INFO ] 2025-06-13 07:13:14.478 [main] HomePage - ******************************************************************************************
+[INFO ] 2025-06-13 07:13:14.479 [main] HomePage -                       Finished with Test Cases of the Class HomePageElementsTest
+[INFO ] 2025-06-13 07:13:14.479 [main] HomePage - ******************************************************************************************
+[INFO ] 2025-06-13 07:13:14.479 [main] HomePage - 
 
